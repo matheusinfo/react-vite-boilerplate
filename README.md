@@ -24,4 +24,7 @@ pnpm run dev
 
 #
 
-<center>feel free to complement the boilerplate :D</center>
+
+<div align="center">
+  feel free to complement the boilerplate :D
+</div>
